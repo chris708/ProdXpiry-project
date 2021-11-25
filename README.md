@@ -1,6 +1,14 @@
+# Theme
+
+Digital Transformation for a Social Change.
+
 # ProdXpiry
 
 A mobile application to track expiry dates of products.
+
+## Problem Statement
+
+Food waste emissions contributes significantly to global warming and a big part of the problem starts in the fridge where people stack loads of food in the refrigerator, lose track of some food and finally end up throwing them away.
 
 ## User Interface Design
 
@@ -15,10 +23,10 @@ A mobile application to track expiry dates of products.
 - [App Working](https://drive.google.com/file/d/18CFbNnyKVOBWte6CDwAjry3d4ZCb9aj3/view?usp=sharing)
 
 
-## Contributions
+### Contributions
 
-Nayana BM, [Bharath Monish](https://github.com/Bharathm1)Bharath Monish and Merrin Chacko worked on the PowerPoint Presentation.
+[Nayana BM](https://github.com/wannatrynewnbm), [Bharath Monish](https://github.com/Bharathm1) and [Merrin Chacko](https://github.com/merrin3005) worked on the PowerPoint Presentation.
 
-Christy Finny worked on the code for the Flutter application.
+[Christy Finny](https://github.com/chris708) worked on the code for the Flutter application.
 
-S Ghanshyam Padnekar, Dev Ganesh and Nayana BM worked on the User Interface Design.
+[S Ghanshyam Padnekar](https://github.com/sghanshyampadnekar), [Dev Ganesh](https://github.com/Devganesh21) and [Nayana BM](https://github.com/wannatrynewnbm) worked on the User Interface Design.
