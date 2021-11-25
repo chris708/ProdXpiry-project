@@ -10,7 +10,7 @@ A mobile application to track expiry dates of products.
 
 ## Problem Statement
 
-Food waste emissions contributes significantly to global warming and a big part of the problem starts in the fridge where people stack loads of food in the refrigerator, lose track of some food and finally end up throwing them away.
+Expiry dates of products are often missed and therefore we either end up throwing it away which would contribute to waste production or we would end up using or consuming those expired products which again would harm our health.
 
 ## User Interface Design
 
