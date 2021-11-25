@@ -17,8 +17,8 @@ A mobile application to track expiry dates of products.
 
 ## Contributions
 
-Christy Finny worked on the code for the Flutter application.
-
 Nayana BM, Bharath Monish and Merrin Chacko worked on the PowerPoint Presentation.
+
+Christy Finny worked on the code for the Flutter application.
 
 S Ghanshyam Padnekar, Dev Ganesh and Nayana BM worked on the User Interface Design.
