@@ -1,8 +1,10 @@
-# Theme
+# IBM ISL Good Tech Scholar Program
+
+## Theme
 
 Digital Transformation for a Social Change.
 
-# ProdXpiry
+## ProdXpiry
 
 A mobile application to track expiry dates of products.
 
@@ -23,7 +25,7 @@ Food waste emissions contributes significantly to global warming and a big part 
 - [App Working](https://drive.google.com/file/d/18CFbNnyKVOBWte6CDwAjry3d4ZCb9aj3/view?usp=sharing)
 
 
-### Contributions
+## Contributions
 
 [Nayana BM](https://github.com/wannatrynewnbm), [Bharath Monish](https://github.com/Bharathm1) and [Merrin Chacko](https://github.com/merrin3005) worked on the PowerPoint Presentation.
 
