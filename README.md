@@ -15,13 +15,11 @@ A mobile application to track expiry dates of products.
 - [App Working](https://drive.google.com/file/d/18CFbNnyKVOBWte6CDwAjry3d4ZCb9aj3/view?usp=sharing)
 
 
-This project is a starting point for a Flutter application.
+## Contributions
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bharath Monish - 
+Christy Finny - 
+Nayana BM - 
+S Ghanshyam Padnekar - 
+Merrin Chacko - 
+Dev Ganesh - 
